@@ -7,7 +7,7 @@
 The show focuses on the relationship between single mother Lorelai Gilmore and her daughter Rory, who live in Stars Hollow, Connecticut, a fictional town filled with colorful characters. The series explores issues of family, romance, education, friendship, and ambition, 
 along with generational divides and social class, the latter themes manifesting through Lorelai's difficult relationship with her high society parents, Emily and Richard, and Rory's experiences at elite schools.
 
-Sherman-Palladino, who served as showrunner for the majority of the series, infused Gilmore Girls with distinctive fast-paced dialogue filled with pop culture references. After season six, when the series moved to its new network, Sherman-Palladino left the show and was replaced by David S. Rosenthal for the final season. The series was produced and distributed by Warner Bros. Television and filmed on the studio's lot in Burbank, California.
+<emphasis> Sherman-Palladino <emphasis/>, who served as showrunner for the majority of the series, infused Gilmore Girls with distinctive fast-paced dialogue filled with pop culture references. After season six, when the series moved to its new network, Sherman-Palladino left the show and was replaced by David S. Rosenthal for the final season. The series was produced and distributed by Warner Bros. Television and filmed on the studio's lot in Burbank, California.
 
 Television critics praised Gilmore Girls for its witty dialogue, cross-generational appeal, and effective mix of humor and drama.
 It never drew large ratings but was a relative success for The WB, peaking during season five as the network's second most-popular show. 
