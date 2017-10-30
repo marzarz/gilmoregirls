@@ -1,7 +1,8 @@
 ## Gilmore Girls
 
 <head> Background </head>
-  
+
+
 <body> <i> Gilmore Girls </i> is an American comedy-drama television series, created by <b> Amy Sherman-Palladino </b> and starring <b> Lauren Graham </b> and <b> Alexis Bledel </b>. The show debuted on October 5, 2000 on The WB and became a flagship series for the network. <i> Gilmore Girls </i> originally ran for seven seasons, with the final season moving to The CW, and ended its run on May 15, 2007.
 
 The show focuses on the relationship between single mother <b> Lorelai Gilmore </b> and her daughter <b> Rory </b>, who live in <i> Stars Hollow, Connecticut </i>, a fictional town filled with colorful characters. The series explores issues of family, romance, education, friendship, and ambition, along with generational divides and social class. The latter themes manifesting through Lorelai's difficult relationship with her high society parents,<b> Emily </b> and <b> Richard </b>, and <b> Rory's </b> experiences at elite schools.
