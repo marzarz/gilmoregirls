@@ -1,6 +1,6 @@
-## Gilmore Girls
+<h1> Gilmore Girls </h1>
 
-<h1> Background </h1>
+<h2> Background </h2>
 
 
 <body> <i> Gilmore Girls </i> is an American comedy-drama television series, created by <b> Amy Sherman-Palladino </b> and starring <b> Lauren Graham </b> and <b> Alexis Bledel </b>. The show debuted on October 5, 2000 on The WB and became a flagship series for the network. <i> Gilmore Girls </i> originally ran for seven seasons, with the final season moving to The CW, and ended its run on May 15, 2007.
